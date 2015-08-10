@@ -1,10 +1,13 @@
-# X
+# Hacker News For X
+
+A list of active communities similar to Hacker News.
 
 ## Technology
 
 [Lobste.rs](https://lobste.rs/) - Technology  
 [EchoJS](http://www.echojs.com/) - JavaScript  
 [DataTau](http://www.datatau.com/) - Data Scientists  
+[HackerNews](https://news.ycombinator.com/) - Startups/Technology
 
 ## Business / Marketing / Sales
 

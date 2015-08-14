@@ -10,6 +10,7 @@ Sites above the line are relatively active, with at least a few front page comme
 [EchoJS](http://www.echojs.com/) - JavaScript  
 [DataTau](http://www.datatau.com/) - Data Scientists  
 [HackerNews](https://news.ycombinator.com/) - Startups/Technology  
+
 --
 [Front-end Front](http://frontendfront.com/) - Front-end developers
 
@@ -19,6 +20,7 @@ Sites above the line are relatively active, with at least a few front page comme
 [Growthhackers](http://growthhackers.com/) - Marketing/Growth  
 [Product Hunt](http://www.producthunt.com/) - New Products  
 [Closing Call](http://closingcall.co/) - Sales  
+
 --
 [Bootstrappers.io](http://www.bootstrappers.io/) - Bootstrappers  
 
@@ -30,4 +32,5 @@ Sites above the line are relatively active, with at least a few front page comme
 
 /
 --
+
 [Nomadler](http://nomadler.com/) - Digital Nomads  

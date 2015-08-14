@@ -11,7 +11,7 @@ Sites above the empty are relatively active, with at least a few front page comm
 [DataTau](http://www.datatau.com/) - Data Scientists  
 [HackerNews](https://news.ycombinator.com/) - Startups/Technology  
   
-[Front-end Front](http://frontendfront.com/) - Front-end developers
+[Front-end Front](http://frontendfront.com/) - Front-end Developers
 
 ## Business / Marketing / Sales
 
@@ -25,9 +25,22 @@ Sites above the empty are relatively active, with at least a few front page comm
 ## Design
 
 [Designer News](https://www.designernews.co/) - Designers  
+[Researchers.io](http://researchers.io/) - UX Research
+
+## Other Professions
+
+/
+
+[Lawyer News](https://lawyeritis.com/)
 
 ## Lifestyle
 
 /
   
 [Nomadler](http://nomadler.com/) - Digital Nomads  
+
+## Contribute
+
+Create an issue or edit this file and submit a pull request.
+
+Before including a site, make sure it has had recent non-spam submission and some votes.

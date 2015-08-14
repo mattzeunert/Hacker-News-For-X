@@ -12,6 +12,8 @@ Sites above the empty are relatively active, with at least a few front page comm
 [HackerNews](https://news.ycombinator.com/) - Startups/Technology  
   
 [Front-end Front](http://frontendfront.com/) - Front-end Developers
+[Deep Learning News](http://news.startup.ml/) - Machine Learning
+[HackerStreet.India](http://hackerstreet.in/) - Indian Hackers
 
 ## Business / Marketing / Sales
 
@@ -29,13 +31,13 @@ Sites above the empty are relatively active, with at least a few front page comm
 
 ## Other Professions
 
-/
+-
 
 [Lawyer News](https://lawyeritis.com/)
 
 ## Lifestyle
 
-/
+[Village](http://www.itsonvillage.com/) - Toronto
   
 [Nomadler](http://nomadler.com/) - Digital Nomads  
 
@@ -43,4 +45,4 @@ Sites above the empty are relatively active, with at least a few front page comm
 
 Create an issue or edit this file and submit a pull request.
 
-Before including a site, make sure it has had recent non-spam submission and some votes.
+Before including a site, make sure it has had recent non-spam submission by multiple users and some votes. Also check they are news aggregators rather than forums.

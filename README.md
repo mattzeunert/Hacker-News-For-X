@@ -31,7 +31,7 @@ Sites above the empty are relatively active, with at least a few front page comm
 
 ## Other Professions
 
--
+(None with comments.)
 
 [Lawyer News](https://lawyeritis.com/)
 

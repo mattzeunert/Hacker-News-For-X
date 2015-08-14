@@ -11,8 +11,8 @@ Sites above the empty are relatively active, with at least a few front page comm
 [DataTau](http://www.datatau.com/) - Data Scientists  
 [HackerNews](https://news.ycombinator.com/) - Startups/Technology  
   
-[Front-end Front](http://frontendfront.com/) - Front-end Developers
-[Deep Learning News](http://news.startup.ml/) - Machine Learning
+[Front-end Front](http://frontendfront.com/) - Front-end Developers  
+[Deep Learning News](http://news.startup.ml/) - Machine Learning  
 [HackerStreet.India](http://hackerstreet.in/) - Indian Hackers
 
 ## Business / Marketing / Sales
